@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/nnphucthinh01/nnphucthinh01/_apis/build/status/VitBomm.pipelines-java?branchName=master)](https://dev.azure.com/nnphucthinh01/nnphucthinh01/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
